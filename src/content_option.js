@@ -2,11 +2,11 @@ const logotext = 'Ishtiaq Mahmood';
 const meta = {
   title: 'Ishtiaq Mahmood',
   description:
-    'I’m Ishtiaq Mahmood data scientist _ Full stack devloper,currently working in PicoCoders',
+    'I am Ishtiaq Mahmood - Data Scientist - Full stack developer, currently working at PicoCoders',
 };
 
 const introdata = {
-  title: 'I’m Ishtiaq Mahmood',
+  title: 'I am Ishtiaq Mahmood',
   animated: {
     first: 'I love coding',
     second: 'I code cool websites',
