@@ -197,7 +197,7 @@ const contactConfig = {
 const socialprofils = {
   github: 'https://github.com/ishtiaqmahmood',
   facebook: 'https://www.facebook.com/ishtiaq.mahmood.37',
-  linkedin: 'https://www.linkedin.com/in/ishtiaq-mahmood-470a741b9',
+  linkedin: 'https://www.linkedin.com/in/ishtiaqmahmood',
   twitter: 'https://twitter.com/gatlinghutch001',
   youtube: 'https://www.youtube.com/@ishtiaqmahmood',
   twitch: 'https://twitch.com',
